@@ -1,1 +1,18 @@
+SHA-1 hash : unique 40-digit computer generated identifier for each version (or commit)
+HEAD : reference to the current branch or commit
+									HEAD
+									Master
+									6e538
+
+Working Directory 		Stage (Index) 			Local Repository
+
+v2 file.txt 			v2 file.txt
+v1 file.txt			v1 file.txt 
+
+
+git log : view the change history 
+git diff : view changes between files and commits
+
+can edit by nano/emacs
+	
 
